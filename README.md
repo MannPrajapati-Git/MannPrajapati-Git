@@ -26,6 +26,6 @@ I Am A MERNSTACK Developer with strong expertise in building scalable, high-perf
 ## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MannPrajapati-Git&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
-<img src="https://visitcount.itsvg.in/api?id=MannPrajapati-Git&icon=0&color=0" alt="">
+<img src="https://komarev.com/ghpvc/?username=MannPrajapati-Git&label=Profile%20Views&color=blueviolet&style=for-the-badge" />
 
 </div>
