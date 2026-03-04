@@ -2,11 +2,11 @@
 
 ## 🎉 Welcome to my GitHub Page!
 
+---
+
 ### Hello, I'm **Mann Prajapati**
 
 Welcome to my GitHub! I'm a passionate MERNSTACK Developer focused on building scalable, high-performance web applications with modern technologies. I leverage AI tools to enhance productivity and deliver intelligent digital solutions.
-
----
 
 # 💫 About Me:
 I Am A MERNSTACK Developer with strong expertise in building scalable, high-performance web applications using modern technologies. I have mastered AI tools and effectively utilize them to enhance productivity, streamline development processes, and deliver intelligent digital solutions. I focus on writing clean, maintainable code and creating efficient systems that solve real-world problems. Committed to continuous learning and innovation, I strive to build reliable and future-ready technology solutions.
@@ -22,13 +22,11 @@ I Am A MERNSTACK Developer with strong expertise in building scalable, high-perf
 ![](https://nirzak-streak-stats.vercel.app/?user=MannPrajapati-Git&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MannPrajapati-Git&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-### 🚀 My Motto
-**"Started With C, Aiming For CEO"** - Mann Prajapati
+## 📖 Professional Vision
+**"Transforming Ideas Into Innovative Solutions - From Programming Fundamentals to Leadership Excellence"** - Mann Prajapati
 
-### 🔝 Top Contributed Repo
+## 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MannPrajapati-Git&limit=5&theme=aura&combine_all_yearly_contributions=true)
-
----
 
 <img src="https://visitcount.itsvg.in/api?id=MannPrajapati-Git&icon=0&color=0" alt="Profile Views">
 
