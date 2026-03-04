@@ -1,4 +1,6 @@
-## Hi there 👋 Welcome to my GitHub Page!
+<div align="center">
+
+## 🎉 Welcome to my GitHub Page!
 
 ### Hello, I'm **Mann Prajapati**
 
@@ -20,16 +22,14 @@ I Am A MERNSTACK Developer with strong expertise in building scalable, high-perf
 ![](https://nirzak-streak-stats.vercel.app/?user=MannPrajapati-Git&theme=buefy&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MannPrajapati-Git&theme=buefy&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MannPrajapati-Git&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 💡 My Motto
-> **"Started With C, Aiming For CEO"** - Mann Prajapati
+### 🚀 My Motto
+**"Started With C, Aiming For CEO"** - Mann Prajapati
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MannPrajapati-Git&limit=5&theme=aura&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MannPrajapati-Git&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<img src="https://visitcount.itsvg.in/api?id=MannPrajapati-Git&icon=0&color=0" alt="Profile Views">
+
+</div>
